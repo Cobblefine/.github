@@ -1,0 +1,1 @@
+Cobblefine is specifically built to bring the full Cobblemon experience to low-end PCs and laptops without the frustrating lag. The game settings are fine-tuned and essential optimization mods are included to squash stuttering, lower memory consumption and significantly boost your FPS.
